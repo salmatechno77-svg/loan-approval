@@ -1,0 +1,16 @@
+person_age,person_gender,person_education,person_income,person_emp_exp,person_home_owner,loan_amnt,loan_intent,loan_percent_income,cb_person_cred_hist,credit_score,previous_loan_default,loan_status
+22.0,male,high_school,116477.0,12.0,own,12501,education,0.11,1,682,1,1
+25.0,female,bachelor,20638.0,6.0,rent,23360,medical,0.6,0,793,1,0
+27.0,male,masters,30937.0,0.0,own,13099,personal,0.42,0,780,1,1
+30.0,female,phd,109601.0,1.0,rent,20530,venture,0.19,0,605,0,0
+32.0,male,high_school,91783.0,19.0,own,21627,home_improvement,0.24,0,681,0,0
+35.0,female,bachelor,60900.0,14.0,rent,31308,debt_consolidation,0.51,0,595,0,0
+38.0,male,masters,,17.0,own,10259,education,0.25,0,601,1,0
+41.0,female,phd,74470.0,4.0,rent,9930,medical,0.13,1,750,0,0
+45.0,male,high_school,42685.0,12.0,own,14653,personal,0.34,0,695,1,0
+50.0,female,bachelor,51693.0,,rent,14521,venture,0.28,1,684,0,0
+,male,masters,109396.0,13.0,own,32842,home_improvement,0.3,1,773,0,1
+29.0,female,phd,37196.0,3.0,rent,8384,debt_consolidation,0.23,0,638,1,1
+24.0,male,high_school,109128.0,9.0,own,5732,education,0.05,0,654,1,0
+33.0,female,bachelor,57903.0,2.0,rent,26719,medical,0.46,0,796,1,1
+25.0,female,bachelor,20638.0,6.0,rent,23360,medical,0.6,0,793,1,0
